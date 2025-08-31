@@ -3,3 +3,10 @@ node_modules
 .env
 
 /generated/prisma
+usuario banco
+usuario: natan
+senha: 1234
+
+//biblioteca mongodb
+npm install prisma --save-dev
+npx prisma init 
